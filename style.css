@@ -547,5 +547,8 @@ form button {
         form {
             width: 80%;
         }
+            footer p {
+            font-size: 13px;
+        }
     }
 }
